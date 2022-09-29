@@ -1,0 +1,14 @@
+{
+  "name": "npmlibtest-how-to-publish",
+  "version": "1.0.0",
+  "description": "An example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "np": "^7.6.2"
+  }
+}
