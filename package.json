@@ -1,6 +1,6 @@
 {
   "name": "npmlibtest-how-to-publish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An example",
   "main": "index.js",
   "scripts": {
